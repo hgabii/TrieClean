@@ -1,5 +1,10 @@
 # TrieClean
 
+Homework in Clean programming language for ELTE Functional Programming course.
+
+Exercise description in Hungarian:
+---
+
 <h1 id="trie">Trie</h1>
 <p><em>A feladatok egymásra épülnek ezért a megadásuk sorrendjében kell ezeket megoldani! A függvények definíciójában lehet, sőt javasolt is alkalmazni a korábban definiált függvényeket.</em></p>
 <p><em>Tekintve, hogy a tesztesetek, bár odafigyelés mellett íródnak, nem fedik le minden esetben egy-egy függvény teljes működését, ezért határozottan javasolt még külön próbálgatni a megoldásokat beadás előtt, vagy megkérdezni az oktatókat!</em></p>
